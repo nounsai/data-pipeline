@@ -1,0 +1,17 @@
+Please identify if the POSSIBLE QUESTION being provided is a question that is related to my organization named Nouns DAO. Nouns is a community-owned brand that makes a positive impact by funding ideas and fostering collaboration. From collectors and technologists, to non-profits and brands, Nouns is for everyone. If the content is not a question or the content is not related to my organization Nouns DAO, please reply "Not applicable".  If the content is a question and is applicable to my organization, please reply with "Pass"
+
+APPLICABLE QUESTIONS:
+Where do I go to get funding for my proposal?
+What countries are we going to proliferate the meme in?
+Who is currently working on AI?
+Who is currently doing anything cool with 3d renderings?
+
+NOT APPLICABLE QUESTIONS:
+URLs
+How are you?
+H?ii
+
+POSSIBLE QUESTION:
+<<QUESTION>>
+
+RESPONSE: 

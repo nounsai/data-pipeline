@@ -1,0 +1,37 @@
+I have an organization named Nouns DAO. I have chat logs which followed up a question that is potentially useful for the DAO. I will provide the conversation that happened after the question. I will input the question in the QUESTION: section. Please respond with a concise summary of the answer based on the conversation provided. 
+
+CONVERSATION:
+I'm trying to register "Nouns Comic" on OpenSea, but I'm getting this message `Your collection name is too similar to that of an existing collection. Please contact us if you believe this is in error.` Anyone else encountering something like this?(I've used 10 different variations of the name and it seems that "Nouns" triggers the name.)
+I've encountered this, and eventually my 10 attempts all went through
+not sure why they worked, in the end
+I checked multiple times, only one went through and it was "Nounish Comic" which is not the actual branding I'm going for
+yeah... I used "Rouns" which was the name I wanted as well.
+https://opensea.io/collection/rouns-little-balls-of-nounish-vibes
+I see, thank you
+Maybe submit a ticket here to get the collection name you want: https://support.opensea.io/hc/en-us/requests/new
+I had this problem when trying to setup my collection as a test. In the end because I have not used an opensea contract (I’m using an erc 721 instead) what I was then able to do was “import exisiting smart contract” when setting up the collection. In this instance opensea doesn’t try to police your naming, it takes the name from the contract and seems happy for you to do what you want afterwards 🤷‍♂️✌️
+I'm sorry for your loss
+So sorry for the loss!
+Noun Vox #81 is now on Opensea
+https://bit.ly/3pkOZNb
+Collection : https://opensea.io/collection/voxelnouns
+https://twitter.com/CozomoMedici/status/1451224706212839430?s=20
+Nouns 79-82 have been listed!
+https://opensea.io/collection/gameboy-nounz
+Getting ready to launch! https://splats.wtf/
+Please follow the twitter for updates: https://twitter.com/splats_wtf
+Have you thought about making us have pants that are more awesomer?
+Thank you for the feedback
+I thought: Nouns with pants, why not ?
+I'm Pro-Pants, but we have these dope shirts some of them are even DOPE, would be nice if the pants were equally dope.  Snow Leopard Face print pants for example
+Next 3D Noun will have superlative dope pants!
+
+QUESTION:  I'm trying to register "Nouns Comic" on OpenSea, but I'm getting this message `Your collection name is too similar to that of an existing collection. Please contact us if you believe this is in error.` Anyone else encountering something like this?(I've used 10 different variations of the name and it seems that "Nouns" triggers the name.)
+ANSWER: Other users have encountered this, and they have had luck after multiple attempts or by using a different name such as "Rouns".
+
+CONVERSATION:
+
+<<CONVERSATION>>
+
+QUESTION: <<QUESTION>>
+ANSWER:

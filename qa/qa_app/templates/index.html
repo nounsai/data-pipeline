@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <title>GPT-4 vs GPT-3 Q&A Comparison</title>
+    <style>
+      .collapse:not(.open) {
+        display: none;
+      }
+    </style>
+    <script>
+      function toggleCollapse(id) {
+        const element = document.getElementById(id);
+        element.classList.toggle("open");
+      }
+    </script>
+  </head>
+  <body class="bg-gray-100 font-sans">
+    <div class="container mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold mb-8">GPT-4 vs GPT-3 Q&A Comparison</h1>
+
+      {% for item in data %}
+      <div class="bg-white shadow-lg rounded-lg p-6 mb-6">
+        <p class="text-xl font-semibold mb-2">Question: {{ item.question }}</p>
+        <p class="text-lg mb-2">
+          <span class="font-semibold">GPT-4 Answer:</span> {{ item.answer_qa2 }}
+        </p>
+        <p class="text-lg mb-4">
+          <span class="font-semibold">GPT-3 Answer:</span> {{ item.answer_gpt3
+          }}
+        </p>
+
+        <button
+          class="bg-blue-600 text-white font-semibold py-2 px-4 rounded"
+          onclick="toggleCollapse('{{ loop.index }}')"
+        >
+          Toggle Conversation Prompt
+        </button>
+        <div id="{{ loop.index }}" class="collapse mt-4">
+          <h3 class="text-lg font-semibold mb-2">Direct Replies:</h3>
+          {% for reply in item.logs.direct_replies %}
+          <p class="mb-1">{{ reply.author_tag }}: {{ reply.content }}</p>
+          {% endfor %}
+
+          <h3 class="text-lg font-semibold mb-2 mt-4">
+            Other messages in conversation:
+          </h3>
+          {% for msg in item.logs.other_messages %}
+          <p class="mb-1">{{ msg.author_tag }}: {{ msg.content }}</p>
+          {% endfor %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </body>
+</html>

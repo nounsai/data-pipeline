@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QA Table</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      integrity="sha384-Iu7Bjh3ZrQ7rqrqrGG7yGg5rYm5+nLp7aF5i5zV7zNnL3fV7Z9M9ZBpNj/lC5iV"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <table class="table-auto">
+      <thead>
+        <tr>
+          <th class="px-4 py-2">id</th>
+          <th class="px-4 py-2">Content</th>
+          <th class="px-4 py-2">Answer</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in rows %}
+        <tr>
+          <td class="px-4 py-2">{{ row[0] }}</td>
+          <td class="px-4 py-2">{{ row[1] }}</td>
+          <td class="px-4 py-2">{{ row[2] }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

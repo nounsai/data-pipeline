@@ -1,0 +1,9 @@
+Please give a detailed summary from the chat logs below, taken from the Nouns DAO discord server.  It is critical to preserve ALL questions and their answers. Make sure to preserve who said what. Entities and relationships will need to be extracted from the summaries, so it is important to retain as many of them as possible, even if it makes the summary longer.
+
+=============
+<<CHAT_LOGS>>
+=============
+
+
+SUMMARY:
+

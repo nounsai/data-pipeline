@@ -1,0 +1,16 @@
+wikibaseintegrator
+pandas
+pathlib
+datetime
+pandas
+numpy
+openai
+tiktoken
+spacy
+nltk
+word2number
+tqdm
+python-dotenv
+psycopg2
+mwparserfromhell>=0.5.0
+pywikibot

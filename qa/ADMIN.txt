@@ -1,0 +1,15 @@
+The system we are building is an administrative portal for managing a question and answer database. Tech stack: TypeScript, Remix.run, Prisma, Postgres SQL, Tailwind CSS, Siwe (sign-in with Ethereum) user authentication, and we can use wagmi.sh. All code should be written in the tech stack above. 
+
+The system will be responsible for allowing moderators to look at Q&A that has been generated and stored in our database by a different part of the software stack. The Q&A was built together on a corpus of various discord servers. There is a Discord.js bot that uses this data to help answer questions asked in Discord similar to ones already asked in the past. 
+
+The moderators need to have the ability to do the following:
+
+- Toggle on and off what guilds are allowed to display Q&A. We might have already created some Q&A for those guilds, so we should be able to disable all Q&A belonging to a guild retroactively whenever this option is toggled on or off. There is a database table for all guilds.
+
+- Be able to toggle on and off the channels that are allowed to display Q&A. We might have already created some Q&A for those channels, so we should be able to retroactively disable all Q&A belonging to a channel. 
+
+- Be able to view every question and answer and have the capability to toggle a hidden property. Be able to upvote or downvote the q&a. Hide, upvote, and downvote are fields we already have prepared in our DB. There are a lot of questions and answers, and the list is only going to get longer. We should have pagination on the front end for this application part. We should also have a search for the q&a with a basic keyword-based search.
+
+- We need to authenticate anyone that wants access to this portal with a login. We can use SIWE (sign-in with Ethereum) to do this. We will have to add the list of addresses authorized to manage this system to our database, and they will have to prove who they are using SIWE.
+
+Provide an overall solution following the guidance and requirement above. Ensure to outline how we will handle the frontend user interface to meet all needs. Describe the solution by breaking it down as a task list based on the abovementioned guidance. Do not generate code. We will refer to this task as our master list going forward.  

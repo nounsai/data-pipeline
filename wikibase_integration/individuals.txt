@@ -1,0 +1,1379 @@
+''This table was last updated on 2023-06-19 16:38:03 (UTC).''
+{| class="wikitable"
+|-
+! Item !! Itemlabel
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q216 || 0x0055cd5f017027d10adf4f13332181e6d8d886bb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q215 || 0x008c84421da5527f462886cec43d2717b686a7e4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q424 || 0x00cda37bfc3dd20349aa901fe8646688218d8772
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4074 || 0x016c2fd7f34eb1a6421118b1f640832a8c4964ed
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2787 || 0x01db485f57dc000e761b85641f78c9d212a2eeab
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4212 || 0x020ca66c30bec2c4fe3861a94e4db4a498a35872
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2772 || 0x021edd67d43b365a6401a5ee704aa6f264f3f4e4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2740 || 0x027c8c6b4ddf6103ea95d528c67bbd436c4577ed
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4130 || 0x032dce7e10aa2108502fc82c5f4b07792036570d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q199 || 0x046c54a8c88397c9b222b979f7b6efe9077f4bde
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3967 || 0x04ba88309915d0210666790b9e9c9cb400235e3a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2866 || 0x05a286e5165d72823a749b00b009a2af0dc36ff7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4065 || 0x05b8312f545ce7daae10aae93aea375d366bf4b5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q183 || 0x05b866ba6629958f8eac95b829e08778b06086b0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2755 || 0x05b98dd27d50b0b9daf1b3be7f299e7362b26b2e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q410 || 0x0617c2d8c901ab2b17b64072b0c7d4c76f6e8a91
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2826 || 0x061b0a794945fe0ff4b764bfb926317f3cfc8b93
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q226 || 0x0658f4ed17289144717713adffc2539ef7c2ef8e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4232 || 0x069da1bad547d67abf26c42358d3a6a8a78deca0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q452 || 0x073f0dc58e9989c827ba5b7b35570b7315652e63
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4047 || 0x0866f8d156dddec441a333117156a4fd23afee62
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4011 || 0x08fd5396d29b0b19bdfe910d6eaff7a3623e7939
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q439 || 0x095726a4903f2b0d95f921580ff88736a615b1ec
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2764 || 0x095f1fd53a56c01c76a2a56b7273995ce915d8c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2783 || 0x09907f01d6192192f767defb01c7ee10cf82c24c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4004 || 0x0a4f02a0092161645cec1c77c81120c0d42a60cb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3925 || 0x0ab933410bf2c2725afb62995e928a02145010a0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4082 || 0x0b20ed7418f153a6595e0f88c682df52d54b00c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q333 || 0x0b3cf56e7df3bb3fb7201ffcd96d279b05ddd2e3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2815 || 0x0b789ef2a2cda2fb5b5c7cdb278c2cb8bdc96e4c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2709 || 0x0bc607af865024efc70da2374e4552201725ade6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3995 || 0x0c4423f0fce4ff6619dda8b75b1149eca594f880
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q217 || 0x0c66d954d9cb1ebdf4e37a000262323c83655e70
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3891 || 0x0c9f37f77bea2c6e6f15c1a8c4d7316a3ee7408b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q186 || 0x0d51044ff95c4e3bf77e2e08a8ba398646bdb609
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3924 || 0x0d60943d3c4248d33ab1474db126b9573d911d31
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4120 || 0x0d93f519aeb8d75d208b8fcd5730de02f673542c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2761 || 0x0e09ceb98492715ec5b080d2b95b5004ddf43947
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2835 || 0x0e2cd794602152772a19c5eb7bf221ccafdabd9d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4163 || 0x0ef4db30f76bcbd1ee7ddbb056e699b69dfb8eae
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3935 || 0x0f576fe0a916ca39ee929f0cc956cfc9d2a59c12
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3926 || 0x0f7341c76ba4460736abec4f65a1953e824658cc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q405 || 0x10ec976c862a0e48c932fb53b5c542b5cbb13cf1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4113 || 0x110a924d724f4bffc8b0ec7ae416565365e7ab34
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3928 || 0x1254958bd5073c6b238e516298f0c48f6f60a78e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4057 || 0x12909c49a9a7d8e563608a81501e98a46a65b0b7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3802 || 0x12f3da22832ade66d63c624b8c40726db1124faf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4044 || 0x1337f7970e8399ccbc625647fce58a9dada5aa66
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q227 || 0x13eef4ef8fca471f242ab0f8f49a3db6017ada33
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q228 || 0x141b63d93daf55bfb7f396eee6114f3a5d4a90b2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q214 || 0x144975eec9674fd0af3d6f3fba8d660879ce3881
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4008 || 0x14dfdd3613054ddb14af2fa51c8a75e17dade764
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q467 || 0x168cd7082a30c89af33d253bb0b27ed62b3e04a3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3614 || 0x16b6936aefa8f70029bcf9ea97f7c72ea5ff9327
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q457 || 0x1766255e71a11f9f9d13abe3f2840e3f6942aa29
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2858 || 0x177751396d8236569c5c7b04232c7b7281a3b9f3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q500 || 0x17a01db837345772f2e65adf2fb4f4de10ac1b72
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q503 || 0x17ae58ab79444ad5b8ee2e232caf13c65c32af75
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q539 || 0x17beaa158e68ff9225b4c85151831c7a0d8f258d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2733 || 0x17cd072cbd45031efc21da538c783e0ed3b25dcc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2793 || 0x180376f4dfb89798808da84c2fcc6f5a80a22c93
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q435 || 0x181e1d0974ffaf070e8f3c458c1df0432bd936c7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4175 || 0x184e237b72665d359ff1e9a2ee98d1a7a16ee2e1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4306 || 0x18e95fcd7a5a8fa2439d24f5688da4fbe744bd60
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q490 || 0x1977c4b06a76c160eff920c67fbc0635124364c8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3999 || 0x1984edf70973e1389548f21cd0dcb15b408240c9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q425 || 0x19cc9d48f2032f3ec8d6f60ea84979169a848231
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3889 || 0x1a1c37c145a1eab58c43f003ebb55c18083b5987
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q430 || 0x1a4370fdd7173d0a41ff7c63a8e0249479ba0225
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2801 || 0x1b411bb94530f314d6b843143e9ade8cdcaf8003
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2800 || 0x1b9c334929e2c7b83b9836dcb7a3c478a5770ec6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2711 || 0x1bb96b19858b12d91b8512580147a03cca62c29e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4045 || 0x1bde33dbc5c2ac7109c4a7ecf0d0a0a6cd6f57cc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4005 || 0x1c85a8cd74bca05a993d62a42fd229a8495064ad
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3916 || 0x1d3077f87ee7b08217e22f65fbe014ed06e51ddf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q486 || 0x1d3bc1f9d3f9770453949abd619592cd7583c5ed
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q208 || 0x1db19b9903c5510aa5a866ea643eb021cd12bda0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3791 || 0x1dbcede8075cbd1911b8d16ac7e30ac6fed9c469
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4144 || 0x1e32a859d69dde58d03820f8f138c99b688d132f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4024 || 0x1e341aa44c293d95d13d778492d417d1be4e63d5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q507 || 0x1e66a3d0a6a327b1f29e8acf3a3d9e1e4e088683
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4270 || 0x1ef7a2a03d5369ed0b9807adb2b16e87f1f30baf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q501 || 0x1fc477a65a675be2ba1cc6731b73446fbaa3ee71
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4014 || 0x1ff2875cd548eeae6d22f26bae2d72a50fd143c7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4066 || 0x203cc9b81c53fd649bd575e0e19925dd1a2a54da
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4145 || 0x204bfb4889f6370f4627de4056db557527198e66
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2720 || 0x207a97e0d3339059c555d04374499c03df47775d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q523 || 0x223d6a6d246d151afd7e68b6dab6b2718319219b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q541 || 0x2294414bafb6a4990414541e8aac0cf75e6334a7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4087 || 0x22a8d48de82c0ad16318b43a43aa92f13b3a43e9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4035 || 0x231a07c825f052b895de5fd1513ce40d18e14af5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4122 || 0x24d7a9daf84a3f30b279b931a732f58c4eb0e52b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2813 || 0x24e302de82089d3eaf4d961b1d1b1f55b4fefb12
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3997 || 0x2536c09e5f5691498805884fa37811be3b2bddb4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2874 || 0x2573c60a6d127755aa2dc85e342f7da2378a0cc5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q446 || 0x2666f0c8fb58d182f2dd79475dca4a07b3724607
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4143 || 0x2744a205b3a599508295e53d0290b949104d57f4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4107 || 0x2746d2693e4a80dc567f16d9c86a901f86734fd7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q513 || 0x2767edfee9f5ba743511ee4187a596b302b43938
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q207 || 0x281ec184e704ce57570614c33b3477ec7ff07243
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2763 || 0x286cd2ff7ad1337baa783c345080e5af9bba0b6e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2742 || 0x28b59d90e4b04e8e19a64544a2658704230823a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q204 || 0x29c5dad7e34d0a27d6f65a0a7e07e4d03dcd68c8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q535 || 0x2a019853a00ca3af202c262076da3308f606277f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4129 || 0x2a0b94ad3b41a38ae69fa91cc09d1ba060e1856e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4013 || 0x2a9f26da17e9af433ed65084ad3acef36b08b8a2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2830 || 0x2af21e37928613582734bcbaead0919801a4cacf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3961 || 0x2c6941d2174212656a512c7ab9e86e16ceaa6359
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q468 || 0x2cc36e2740f9e1023ce3e8048a72a86af27cee14
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3956 || 0x2e32935bfd5b2718f99bc8fdf8b37c16811f7d97
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4056 || 0x2e5ccffbae934a9cb7e061fca7af01946e4e550e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q414 || 0x2ed22ea03fea3e5bd90f6fdd52c20c26ff6e1300
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3946 || 0x2ef24ddbb0551f71e270eba4da94fe72f98c178a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3980 || 0x2ef9834de85f62f36fe39cb3387d30469762ad1b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3895 || 0x2f5bfd77ddf8d810fae1cfdaa2af19871f3f96c2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4043 || 0x2f8334822c7362f3d80fe731d3962d582d25bf5b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3987 || 0x2f8ab52fc3b40cef63ccc25f96d2dcf6b7a2b735
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4193 || 0x30093f4c35626a182f179496ffbf6da6a2ce47f2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q438 || 0x31a50fd42b910c635e4d25b63b7b90fad1451695
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q187 || 0x3200a7c6467f66734b1de7ac2daa4365cfdbccf8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q455 || 0x328883ae99bc1be99e7adf18bc1486cdc5477adb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2840 || 0x32d1a53f6709a03f4b6cf4cb0501204ba188d4f5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4093 || 0x32f5e757138ce657d1e0a2e33c6e6e6dbaba0dbf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q512 || 0x3318a75b20ed2eb4ab97b4b8700d05e35829e718
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4019 || 0x33daf8e90cd1f214cc25a1865649e847254f2ece
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4036 || 0x347b43a9f6e5ef282c93005308b4bc45b79f5e61
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q542 || 0x3496f3600070cc01d9665d1057f6f39afc0fe149
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2775 || 0x350c603508524952244042ab5563a4da4dc4488d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2861 || 0x353224270c2c9a7ecce7d8dba98a61587da6f50a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2797 || 0x35aa2666c8bc0aeb68ea64b463cf57a74bdbf977
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q516 || 0x3612b2e93b49f6c797066ca8c38b7f522b32c7cb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q444 || 0x36a5bc205df1ed65c86301022cfc343a6ce546ff
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2789 || 0x3765d1527dc0e18aa6e1845597395b430315d94b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2710 || 0x37b2020dda56de5f49d80297d867292a44cf45eb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2729 || 0x37b8e20646d174b00198b7e183dd1f25520c0f60
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3803 || 0x3803f229c972512b5df9fed7ef083fffbfc92c52
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q209 || 0x387a161c6b25aa854100abaed39274e51aaffffd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3942 || 0x3993996b09949bba655d98c02c87ea6abf553630
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q190 || 0x3a5fb987b475985dc41c455840ea0a1f1717e4c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4225 || 0x3a6760599f8b91dc58c21163e31c2b22d99b0124
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4096 || 0x3abdb6c900c78dc1856798e63952991d2d648280
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4310 || 0x3b0b53b697c023acb7c32bc3fab250c62d4f877c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q463 || 0x3b502b054715a8e0d8f657169615a88b2ccdd429
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q389 || 0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q461 || 0x3cbd57da2f08b3268da07e5c9038c11861828637
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3884 || 0x3d209a7ddebd2ac83b5e6681d997bdf04d1b9b6b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2790 || 0x3d2268fa80b76448a8b33d554a3e972f5d8d5534
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2758 || 0x3d9456ad6463a77bd77123cb4836e463030bfab4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2854 || 0x3dbdf1a202d21aac3309d91dacfcef84b8873f7a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2831 || 0x3df056d7acd4f83dcb63c7b0e9cfd92dbe9c34cb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2824 || 0x3e3928d651b431608f81dd1129a56344d6a256ec
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2819 || 0x3e6791170d9514be84b5a1c17c217a0bffc60976
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4131 || 0x3f457622ac59358f484f53b1a930ae26440b6a14
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2856 || 0x3f58588b59da010031dd8a355dcd7de229663ebf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4121 || 0x3f5da741b5d5b71c8258b8c7348559da86fe913e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q419 || 0x3fde4f78811638d9372cba2b8074ad26abce6c71
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q528 || 0x400ea6522867456e988235675b9cb5b1cf5b79c8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4050 || 0x40f7f7b62993383b1accfce003eb822be158091d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3796 || 0x4156addedcde3e92dffe1b2cb039f3463bc1ec65
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3938 || 0x41a7a1f43a1701d73524f32b9f51b353ed133a8d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q386 || 0x41cb654d1f47913acab158a8199191d160dabe4a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4039 || 0x41e72d30c967a595cc2c7dbc9e1ed98638f3b8c8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3990 || 0x41f283465224c01b64bb14c86bceab80ae79fc95
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2715 || 0x4298e663517593284ad4fe199b21815bd48a9969
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3929 || 0x43a330dec81bbd5e21f41c6b8354e54d481efc93
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q223 || 0x43e3ab994070db606042e8deffd146300cb52919
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q189 || 0x442e218bb1fdc5450be14e200d225b39ce644e4a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4127 || 0x44736f68f0a7a3b2244750997ac073a6a036e3e8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q505 || 0x44b1b486ce8d9c82f605626347a7b1f74add11de
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2794 || 0x44b9d080fcd2dc6d7575b2cc6216365856d4cde1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3798 || 0x44ddf107c7b920312a98f4753ba209443428c881
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4053 || 0x44f5579de7763623a79a4e618dbb26a3ff0955c5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2810 || 0x45505427679103be9b5b6dfec977ef21e09bbfbf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q518 || 0x4575e437306d10ca7433e22796fff7dca70e6699
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q530 || 0x4632a1233cbd8273a10086b4b3860d169b5c3d8b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2872 || 0x4680cb63563472cac10236c07d288580d8d7b52a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2806 || 0x4709b84407dd559c08764fd5dc25bf842b001893
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q391 || 0x4754b7e3dede42d71d6c92978f25f306176ec7e9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q394 || 0x4756e5a5d0668195feb1ec0e7f96832ffc51c4a8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4115 || 0x47d4f20ae83bcd350105f199f900e6e6104dab6a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3940 || 0x48e3e06520ff208746b8555076f7af3e71af1a4f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2727 || 0x4939c898da18b0c1e71dc2a42aa545ad228711b5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q206 || 0x49a5aeec7d9ac70990404278e93031e4c3c71875
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4101 || 0x49a8b75f1c76fcd7a9f51180f5e6c286c2ee284c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4259 || 0x4a7d88d29a26dd3169988f3a12dff6a3ea784cff
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2796 || 0x4b1471ea283c2c2eeef7303155aa7a388281bc69
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2756 || 0x4b4a63e170aac970f45522fb6669a6f268cd672f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4095 || 0x4bc5bff1de9bf2d1bbcf0d0c5b128524b77e94ea
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4007 || 0x4c00f62943546975354d3460d1759189460b44e7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2846 || 0x4c0a466df0628fe8699051b3ac6506653191cc21
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4088 || 0x4c5816d9a83ddd60c6ef8d1bef23bd0fb920d8c5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2807 || 0x4d200d3e268b4a33a831e7ba58acdf93ea79a1e5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q193 || 0x4e142fe48c71092e78be1f1082fa8ce0cb15c354
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3992 || 0x4e2e67836d10b02b1dce78591af6dfd1e2d7bcba
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q499 || 0x4f0762b2ef0266502daab2e2c90d0b9ad7f5bf92
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q185 || 0x4f2acdc74f6941390d9b1804fabc3e780388cfe5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2757 || 0x4f4bd77781ceee4914b6bc16633d5437eabca5d3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4009 || 0x4f6c679e0b17241f9543b1bf8246e18c5865e159
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q488 || 0x4f8f81ccc630546af53148c78970e7bdd9705766
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4046 || 0x501fea3b37837cde179d1c38595ea6d590becf2e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4166 || 0x515299b1a2637181ec95a3efeaa42a466195a40f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2834 || 0x5184782cc00e90d2e0c82a8f22729f7f38a572b8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q521 || 0x51b692349fdd3a4553e602b951ec4ad133a77d6f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4244 || 0x520f977ff2fb5fc3a188b9b7821d583bc8741bc7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4188 || 0x5306c064f74b2c45d3f1afae90cf0d74f7523fe4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2731 || 0x532fb5d00f40ced99b16d1e295c77cda2eb1bb4f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q229 || 0x53469f448c3ea07671da492ede02f90790978c9d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4032 || 0x535fda4404cc3c07643f90edf6512d272897088b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4020 || 0x537265e3fa15c839e445a483e8428e2dd627d00c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q201 || 0x538c4f2afa012911851dadf0655cb61377e7a8eb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2786 || 0x54334ebc8c9ef04bc28d614caa557143ed8afc87
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2708 || 0x5474d4ef13b7f6a280266015a852a7fa13561262
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4055 || 0x54be3a794282c030b15e43ae2bb182e14c409c5e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2743 || 0x55a25cce1737e4692fc243b6c26364daed7f2486
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q192 || 0x55a4e5123f8923500ff7aa97e75231a54a9c233a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q396 || 0x55b0a25d697647281553a177321dad0a0bf9a148
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2718 || 0x55d1f4091ced357cd4c4f9dd12531b8fdbe2dd26
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q390 || 0x5606b493c51316a9e65c9b2a00bbf7ff92515a3e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3954 || 0x56178626332fc530561535eeaa914b863aa455f2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4119 || 0x565b93a15d38acd79c120b15432d21e21ed274d6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q533 || 0x56af52a9611afda072a73afd0e1ff4c4e35ee94a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2847 || 0x57b21441c24746697db4d9553f800f42f8a9ec12
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q191 || 0x57dadf47646c7b4313ac9c6f71faee1fb550391b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4071 || 0x583885492b1ac55e6633cdd89d03939033c96bf8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4272 || 0x585f4fbe2d2a889c286fa71fb81d01f30773f4b1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2799 || 0x58947f539f1c1e930c2aea6e8a9fb0ecc9763357
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2811 || 0x58a25b8c593c75f6bceb2c805a53437da3c53757
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4060 || 0x58c5886ff71a053d8722aff86edae0fdc00cf0a0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q510 || 0x59a55a61b6590f6a84a02ba93f256dba6a994da4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4106 || 0x5ab73e2f1124e10998491e19b36ff3ff38f678c6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2788 || 0x5b35c3ef0acf9660a7d3fcefc2a2053a7cec20e3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4192 || 0x5ba0609f71e616dcd0a76ab018eb7d87b4be8666
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2773 || 0x5bcd6f3b0a5519d448fbdf33204091bbe097c992
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4006 || 0x5be068c777f27df1eb6d8871b90dce0afd955ee8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4210 || 0x5c503df9051b1dbb941f3046cb293c97d7cef4ad
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4126 || 0x5c6e1b0e60d4a1493ca8dd9bbf7a31d65eeec094
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q198 || 0x5ca40836e6473a495148972a13dd9014797c0e92
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q493 || 0x5ca6a2e5f53a48616d4ead87ff6034fc032d4722
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q393 || 0x5d4df391f56f0d8f854434e52a15b10b6501129f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q525 || 0x5d802e2fe48392c104ce0401c7eca8a4456f1f16
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2734 || 0x5d9275cffdb2e68000a3758fe83439a27b666963
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4304 || 0x5e0058aa7c84386c2c097469534de3a005320adc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q432 || 0x5e3cd5e01526cc3783ad7e97598909e2fefe4140
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q474 || 0x5e876c81b1a6e341896120fc40478be6b906539f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3793 || 0x5e967b7afbbcde04511f0634cbea0811ac95a974
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4114 || 0x5edf575176dc43fe9e18b55a67a3e4a018eb4f5b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4002 || 0x5ee24cf78aeb5213f06c4ed718c7bbef6fe1209e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q402 || 0x5fc3afaeef0ff1149cee3bd80c1b20de629df880
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q546 || 0x60232134f0a9177e5248bc44fc95c2c5efef8e1a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q517 || 0x60bf178a865d733e9a40c5f8e9f5d5aa6e84498a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2867 || 0x6223bc5fd16a19bcfae2281dde47861cfe1023ee
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3923 || 0x62e66c82a9e3221ac84496d796b17d941986f385
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q480 || 0x63e04a7f65f17b057ca18d6bee65b03a213c294b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2814 || 0x640a55f99d99a8cc47b8a422c78bb96712b7f52b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3955 || 0x6479f486c5f671da9da892695fa6ee681ade4dec
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q451 || 0x648bfc4db7e43e799a84d0f607af0b4298f932db
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3986 || 0x64e9cd118aa8d45c20efeeefd68679372f5e48dc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3972 || 0x6525c002b80ae9f2431883d3a6274c0d4af5ed7c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3937 || 0x65b5e05ccd26c87a19b455b18309af687c6e7473
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2816 || 0x660f6d6c9bcd08b86b50e8e53b537f2b40f243bd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q423 || 0x66d5527411d821cb513f2d214bbbc0ad73586b35
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2741 || 0x66df0a3c697f25134a73fd3030f2c3a9a6861bbc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2766 || 0x6792554fd4e85196fe3a38ffc148ad0993017c0e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q205 || 0x67a690caf73ae9381d09be6f1ce584bbe49d788a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3953 || 0x67bace9bbdf3212509a7438ae026c7c9fbef6931
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3900 || 0x6924686b3dcd04ae8ef91a3feccc262d020f519d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4015 || 0x6937db08db977c734fc1ce884d2915b05147f845
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q431 || 0x696ed7b26f4b019ceec78dc8b9140ad64a6f354b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3983 || 0x6a693a682f8cfea669c3170814d875107cb3accb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2803 || 0x6b484b21eadaa33e28e34c17b53764cf3af52284
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3994 || 0x6b491aebe1fdd3dff345b2cd915bdb3ad8ad3e84
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4123 || 0x6b52e83941eb10f9c613c395a834457559a80114
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2791 || 0x6b810bab946032997b006adf1af44b97ef8bd8e7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3912 || 0x6c0cf880cb20eefabfb09341fba9e2bd29ad3dfa
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3974 || 0x6c12de0b0c430e729b0a1f547885fc0db735138e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2820 || 0x6c3a3374f1250597431d4ead59c35fbadf132b40
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3991 || 0x6c7b9f265d52ba829511d7ad4a953147b9f5295f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q412 || 0x6cc34d9fb4ae289256fc1896308d387aee2bcc52
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3977 || 0x6d40c2da94c6522e361904383c37c605f39b8e73
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2721 || 0x6d8a0cf1019f050078bb346492f4c5416a67bc2e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q400 || 0x6dbd6a29aee4a273c5178dae7c48bc3d3deb1d7d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2759 || 0x6dfa20170603c53220cdd61ea8d7de9b7ed725ef
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2738 || 0x6ed21e7284400e5e785acf161df05bd815f26c7e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3908 || 0x6f55ef002ecca96d3db32caacd90c9530682d2c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q487 || 0x6f9e3976fa3b5b22761fe5d635e1f0d9d9aeb85d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2735 || 0x6fbcb02a48505d396ced4ace46bf69754c72f197
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q489 || 0x70ece45cdc64a768f936ccb8ac851578251363e3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q196 || 0x716ede25d72f360d28b8139735532bc9f7ec7ee1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4059 || 0x717a578e4a157ea52ee989be75f15957f294d1a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4033 || 0x7210e2acd9105775644f0dde51970cb2cb77b8b4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q434 || 0x73222225044ce0fc672ff9b6f9730d0a0421382c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4220 || 0x7358a259a7bfd03d1430887dad80498328f13c9c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2823 || 0x73f843d1668e36a2952f2e505879fac9abbf3db4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4051 || 0x749438e69193c452aa6dd0484242504b851c2a72
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3899 || 0x749cf69062401ffd541656db58c5d777f54a0cc9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q420 || 0x75ca7ad7a0088f131abe8c11afec969ff15c3f73
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q529 || 0x75cce138ae159f4c1e92be13474595a89f2b121b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q496 || 0x75ee6eb3d8dacf41ee2e5307090b197d3e1cca6e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4125 || 0x7750b18cc5398f2bdde8dd368762d85e764497ec
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3805 || 0x7898fd5d80b52f6d8a9b7a8b908185536650f108
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2808 || 0x79095391743e0f017a16c388de6a6a3f175a5cd5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3902 || 0x79438224bc21b0e6b45ecf9f8caadfbdb874dedd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2768 || 0x797c89d2b75d359b0404c1760974c6f48a84a88c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q453 || 0x79f08f2e75a8c99428de4a2e6456c07c99e55da5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3901 || 0x7a2fe221bd3ab0f0d7fbd5843aa24fc3d00bd366
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q466 || 0x7ae41296d53a5f1cc765262f435261107b2df2f1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4069 || 0x7b0b35b416631f05f321fe74990817dca81cabde
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q443 || 0x7b41b76d6c816ba19671c5120e957de9992e7199
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q422 || 0x7b7736a2c07c4332ffad45a039d2117ae15e3f66
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4086 || 0x7bee754c1b75917cadc51e23f69304419970b04f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q437 || 0x7c1282a7621f0e2f6169e151628552a8b8a57b2d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q447 || 0x7c621d5954a4ac21a0fd741ab6f302398f29d644
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4108 || 0x7d81478ad18ad375e53de6f74f3122f6be3499ca
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2855 || 0x7dd5b92716542ab2442030df6d87cec437a51ded
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q399 || 0x7de92ca2d0768cdba376aac853234d4eed8d8b5c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3993 || 0x7decf7a31168778f311c57b9a948abaa7321001e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q470 || 0x7ed027076c9c3a2b92dc97e8f8b7f52c79670ad0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4031 || 0x7f33beaa131a6896b97e27c505c532ce40f88f33
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q469 || 0x7f64c6e6908de72221a06a06b4a02a6546a4d6d2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3905 || 0x7fa020f063b3a06153ed755cee5923039efb86a3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q411 || 0x7fd83a33f3ac3e6c8943e7b0b768b51ede114248
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2779 || 0x813ab284509ef832362ab89cb94401d61d4b6b81
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4034 || 0x81974c1a09e53c5129c6e4f74e547fda0adf4d2d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q406 || 0x81b9a5f21efdb5df0210471b9a94e0d4ad9951ed
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3989 || 0x81eaca3eb49d3aff173efd1a8eaeff5e1dea00d6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q403 || 0x82bea28ab81f40fb563dd043bdbdba0e0403b174
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2770 || 0x82d1f493feb2639318045f2c5ddd4b1d0653aa29
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2798 || 0x8313f8408e04bf45d167620b10f4f29110f94509
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q407 || 0x8321795bdace7428d4fadfa30c2ee8e727e491e5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q485 || 0x8323f1c687f7e2296ec71ee3549a7430ea7ec730
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4153 || 0x83782a5ec557be21ac356e3673e2fd5897ea8fad
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q210 || 0x83fcfe8ba2fece9578f0bbafed4ebf5e915045b9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q494 || 0x86030dbbce1c771ff6622c20455cd3619aa93c05
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q397 || 0x860b328060180b2a14ae5c018aba2dd42d7ab6ba
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2781 || 0x86b1eaf8db027a145595b4602b0dd19f77cfa1fd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3934 || 0x86ee7032682bfc97d0451c5344a61f29fb6307ea
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3904 || 0x87757c7fd54d892176e9ecec6767bc16e04a06a8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4148 || 0x879253b5cc2b13bb976e075f0571f85454a315f6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4003 || 0x87a23309d279db2eef6bba7cae04ebffb2314800
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2852 || 0x880f450841e67c786ad3b0b3644b26d2680b7c8c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2776 || 0x8833db8110d54c5632b67b83441accbda5b23bf4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4042 || 0x88bd639d6b029596b029c61490f29f57b0bf4a3f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q462 || 0x88f09bdc8e99272588242a808052eb32702f88d0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3804 || 0x88f9e324801320a3fc22c8d045a98ad32a490d8e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3797 || 0x89c95bf2f40cd32edd961f807533800238b2e9cb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2769 || 0x8a4eb8f3383909a8138101f6e17cd8281a26ea3a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q464 || 0x8ac3ecf6973e020cc0e6e8989fb71b4a77d65987
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q479 || 0x8ae80e0b44205904be18869240c2ec62d2342785
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2818 || 0x8b45d1caccb3593e9f1015ba8e97afb68de3a0d1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4128 || 0x8becd7ebf3f910090f9264dfd0bb221ea04af8c3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2851 || 0x8c2fc764a4ad45984792ad7680ed5e62f772a31f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3913 || 0x8d028dc71b347268d439432349b55bc27989851e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4001 || 0x8d1011626268bd26cb82f00c2089e356d36a1000
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4023 || 0x8d36bac540c57dbd009ea9d9d8cdf9443a83e3f6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4078 || 0x8d86df61da1eefa281d263c47c77629a6f9f2c3a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q475 || 0x8da24b480689314c6d217f2d0bad0daccc87ff44
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q426 || 0x8e71c9644898665a91e4db3dee8bdde97b3c71bc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3886 || 0x90e5aa59a9df2add394df81521dbbed5f3c4a1a3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2745 || 0x912a526852527dfb5d44c22a15b708aa493cda6b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q202 || 0x91dccaa260cc4616e1a6e6b693db7207c5e42937
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4099 || 0x920d5e8a6d314cd59eb5d9faf526fa7b24e127fa
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3800 || 0x9235212430ffac2627d299fac665f74c65da3f9e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2780 || 0x9298b97de93784635900163e582a5d9e570f35a5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2747 || 0x93629a45bb87c4518cb98dbd97e016136e89ce71
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4089 || 0x937af09bd43bd2601b21d68f5a5b7fdad45795cc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4040 || 0x93b4149e4cd06e16c57964b7e59b6d9a8fd11062
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q195 || 0x93d94557824ac07a30b5b0f44f7cb3e00f9c4191
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4137 || 0x93fa26253abbfb21a7f2749a81bb25a7e5f95ba1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3918 || 0x94b9fa136ef7c17cea6cea456e2b0d023e69ebe0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4253 || 0x94e6ac71b3d6c8abc969a3e26501243766740e73
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q184 || 0x95852813766e4a3112891fe6a47100023d61e5a4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4109 || 0x9602c750905b2dd6d5f477d68ff218c7dc5b943c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3949 || 0x9646e0f7544b8ee3649e7ac77eef0cf5b53b748a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2771 || 0x9667ac39e7534c43ca1a2a4a5bc4a6ffc2783458
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2782 || 0x96c80ab80a920efd32485bc2fb9dfec601f357e6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q536 || 0x97a448beaa3fa6f2c65e919365a5ff1b44092b09
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2792 || 0x98659eebbdda21f801ac8f294a58536ecbb82484
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4134 || 0x98d0ef0bb5a3908b6b3942e838ea40161dae555d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4054 || 0x995c875def45eb319c597fa29281a6c8a86633e1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2748 || 0x997953c94ac188051a8cf4318e6cd90ec48fb795
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q538 || 0x9979d204e93229c4355431dfb520e608c81bbd0c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2719 || 0x998f25be40241ca5d8f5fcaf3591b5ed06ef3be7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3892 || 0x99f28ce20b3f102b753182631ef657bcf41da66c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4146 || 0x9a2f6117d1ffa82ad0a2b36f133d476db5bd55f5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q219 || 0x9ae8912ea6562957043c8d048641aa9b450c397f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4017 || 0x9b5c1aab928e4f557e07e663c2f92db8ca5b9ef1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2828 || 0x9c73ce058ff6174ffec481ca4115ccfc88ceda5e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q427 || 0x9c74ae08fd4337e14786f086d911e964df35e623
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2765 || 0x9c99bf82fc38713c471d4415f66c8336d361501a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4041 || 0x9cb8c1463471ee4d8dd6887035f4835a1745e92a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q225 || 0x9d3bede31f1c3b8532b98d8a9569e4b5b3fb6ba8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q511 || 0x9d4162ca2f01583e2f34cb594e8cf198ace99dd3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2737 || 0x9d5025b327e6b863e5050141c987d988c07fd8b2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2827 || 0x9d727911b54c455b0071a7b682fcf4bc444b5596
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q492 || 0x9dfa905f6192ba863ad309a8250f26cf58fe6487
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4185 || 0x9e2003d83e63d09432b5b1d7af22cf7b6c5b84a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2728 || 0x9e2a9bf0b7e5d2ed42ffe26c00ff9d5acd77a7fe
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3941 || 0x9e751d14eebc4347630242797bb31c65a29c7642
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2836 || 0x9f4838f18104f4973aa0972a73a3f50bdebf86ba
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2785 || 0x9ff7794dcee8a5faf1ae91e964bc9c10e6916d6a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q502 || 0xa002c3a0c7eb9330c5b21cf3bec7fd1a7fa0befe
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2817 || 0xa04d191ae755c442b5e4a0ea10136b7b0354cc6a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4152 || 0xa068d2ce57234a6324575ecc088f0d3b2c100974
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4136 || 0xa0c5ef87e5f88e8ff8dab67af96a1328ba7d8c28
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4092 || 0xa1ba09fde11eeaf26050fa8b5db5c0adb2f6758d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q442 || 0xa1c0b11b86a46885b87c7ed68b91faa0c349e1cd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4141 || 0xa1e4f7dc1983fefe37e2175524ebad87f1c78c3c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q543 || 0xa2e41625416d46302e7352f56f8de92aadb6e886
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4029 || 0xa2eec16e8ae128e5b2f0de8ac2e8165896f158e7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4116 || 0xa312899a7c6377cb70e258a3b49b1dcd96ba830d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q544 || 0xa32d3cfd908118dce340ae6e828b260f43674f6b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3897 || 0xa32f90b21d11561d31ff604745907acc77fb67e3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2730 || 0xa340828b995016437351890d6b98aec698e2ef74
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4018 || 0xa35ca314076ec984fd4c5ea5e322bc965aa209d6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4016 || 0xa387c87102fc0b51939d0cf9a86f7edd05291d5c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4000 || 0xa397d02928acaaf6553fd7e832413c5a732cf559
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3903 || 0xa3e0715163db3f0db8221d8a1d99838e4f04334b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3988 || 0xa422bfff5daba6eeefaff84debf609edf0868c5f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2809 || 0xa46036c5554ae85599715422c71f8691d7c5d2e7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3883 || 0xa4c8d9e4ec5f2831701a81389465498b83f9457d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q458 || 0xa4e232fceedb3f43c8e707f8cf20b6bcf30f10e1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q519 || 0xa555d1ee16780b2d414ed97f4f169c0740099615
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4097 || 0xa58899bbc983781d47c7dd5a6b8aeef53cd34bbc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3969 || 0xa5945dc6972cf17c8abf0a6410a799b94b189bb8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3964 || 0xa5960ad956acbb8addebdc29e5bee014f201d8bd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2725 || 0xa59b29d7dbc9794d1e7f45123c48b2b8d0a34636
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q532 || 0xa5d7e4c18d223d1f142297d17e36d74ce7793a54
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2865 || 0xa68fdb0c7ecdc404637c5c06bab82a7bf00609f3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3909 || 0xa71cabc14966c6fae86c05630a20ba1c90944a1f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2722 || 0xa77a54139b285c5294f24a492b9896c380dde01d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3998 || 0xa7f3f205fb211fbd8c94273d0b6cbff725fe6807
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3890 || 0xa7f49efdc904e8906817afbec3e2ae73e2a4e113
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4022 || 0xa8078cabce440b0feadd7264adf179d301fcef18
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2760 || 0xa83d0b93c1044f0fb698dd8221fcfafad3753d0b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q392 || 0xa86882277e69fbf0a51805cdc8b0a3a113079e63
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4061 || 0xa8b4367f09e63a5234abd14f5ef6868b1aed0e7d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2714 || 0xa8c9fff404ef60876922e91e2f93e727f9c16264
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4027 || 0xa8cbb14fcb7b21e49eb9f2a6a4685346a02e97af
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4150 || 0xa8d04cd4e1951291740ef977d56336fdc7f394c5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2777 || 0xa8f6380067cf7b42d6c0268ef6eee6035f27a32e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q222 || 0xa903c06bf35286f6d1cdad25396748353979a44c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q194 || 0xa913f06d0b1cc9616cce9646a9764bb46383f4d4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3952 || 0xa96e4bb2ad4233822d8b64c511a7359d4bc55617
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4081 || 0xa9b5b983017a764a67c714085509419f35252460
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3914 || 0xa9c05e8a9768929c4c6b87911ae47bce88109c74
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4105 || 0xa9f709bca4e505411f9aac4b019dcfa69e21a779
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2795 || 0xaa4a036363afc0a0767e517f7639f067eedd1600
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q221 || 0xaa4fbd73051b151397bb369c7e2a6052a894d924
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4012 || 0xaafca6e684dbca42d8846d64abd1d28aee8207f3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3921 || 0xab2dce783011a5ae40110678004d1f14efc73536
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3888 || 0xab9a363e67f8aa7e55bb27957f2c40f14fa713b6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2751 || 0xac2671baaa44b79ca1fb006750c684e5349d721b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2839 || 0xac56e6156c9c0c56b6d9a4e8388799f25d7feb86
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4073 || 0xaca3b4110403f3c4dacb35a7b3aa0a84efb6a3e9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3971 || 0xad59ed7e1231539bbc4822835b3b9dab74cc8390
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3919 || 0xad7bbe006c8d919ffcf6148b227bb692f7d1fbc7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q454 || 0xadfbcde3352965c23dfb79e8bdf92bd43dc20468
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q200 || 0xae65e700f3f8904ac1007d47a5309dd26f8146c0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2838 || 0xae7f458667f1b30746354abc3157907d9f6fd15e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q213 || 0xaec4075e4fc8ce829bc4f0cfd5e2fa10dd2b12d1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3965 || 0xaee8c60ff7e8947ad514c4310e0f2e203194c33f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4117 || 0xaf05abcfe204f9c2e5e5cdf83e485f7f72eb0e9f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4154 || 0xaf894ce3b1c8505bb84a18c02b23b3c71417a26e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3981 || 0xb054e7683f26273b4ba7454df9a71c578506aa01
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q522 || 0xb0a2852750b15038cf9b5be255a483e3063162d7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3613 || 0xb15dbe75f3fc042e4eb93d2138ef44477bae7c8f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3970 || 0xb1c41c71d36cedea7ddcd5f8d5c5c32ba8f3cbfc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q534 || 0xb1cc18a441c352d4b68f2aa41f7ae240b702ca87
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4083 || 0xb27092983cd5a2c44e28c934eb3eaa4b7216503c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2750 || 0xb293c23ed9a0241da1de4aab649246652346bdd6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4067 || 0xb2a09d83fca93eede41def88b6ba27fc716f1bfd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q415 || 0xb2db1fdddf98cd7ac9dc4f5557caff2969d68447
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4139 || 0xb30c8df9d2bc943541f0f2f542ac0fe94758f261
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3985 || 0xb3483e3ae051eb37bc70710a267d62a2aeeaa541
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2739 || 0xb3b0b0648f5ded9736f9b4287fcc4d1a4277a33e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4111 || 0xb4460bdf3fe5ba4e25f96135a76bdcb9e45ab010
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q514 || 0xb4496906d6ea2685e7a46a14baefae9fe3bf0d2f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2863 || 0xb47a70df538b9a3b591bc5d75da66a04c879b291
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q212 || 0xb52235dc0751ce6e171c51fbf459fd6637c6ccc8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3933 || 0xb59aa5bb9270d44be3fa9b6d67520a2d28cf80ab
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q524 || 0xb5a497ce6b9843e5936b9da985174c0906520387
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3943 || 0xb5c3bb91e4164f96b74f1cb8ee62c859b7301c31
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4048 || 0xb6596f72368126f1ba8db562d575fbe41a4a2504
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4010 || 0xb67e1b08f6c7c870ebefbcaac8cfb6ecb3aa9644
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2821 || 0xb809f32cfe33f3cca0bbfdf8f56041c081138bb3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q473 || 0xb877f7bb52d28f06e60f557c00a56225124b357f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q497 || 0xb8a9ed8d008fa1f161809f15a11f4161fb8b717e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3885 || 0xb8f9f5a98ae392063b3ab0563c568a68e82eb5ad
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2717 || 0xb903576f03a1010d7b915783c728b5c39edd9a54
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4110 || 0xb90890ee1a786ec18af20dd6ce0b7e4ce56d2d4f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3951 || 0xb9d7a0daa17c1ffe90c27b0fe3b38ff07edc9937
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q388 || 0xb9e43e4fa60c0a702a417d5e7e6df37151c1da28
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q448 || 0xba2b9804fbffa8f1a8f7dc8dd600e21268bef09f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3984 || 0xba5a04047df2cd3f25cb0054952d4aea0babef95
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2829 || 0xba5a9d43d0a6b7c00cfa18538ef1b8f5163b1e77
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2825 || 0xbb3844536bcb17c20b36da2ec20f90a03865c945
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q483 || 0xbb92e300d891acf6535deb862d6852bb654283af
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3932 || 0xbbd4429f99f0fe92b5c35a47e84a337337efe6b6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q224 || 0xbc3ed6b537f2980e66f396fe14210a56ba3f72c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q449 || 0xbd7dbab9aeb52d6c8d0e80fcebde3af4cc86204a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2732 || 0xbd910e42a051da2252eb87b6f43d5e6e7ca85e3c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2767 || 0xbe04bdd360faee5a3cfc407c4cd3325c24bde8b9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3963 || 0xbeb3b8bd01a842be859a5a92ca3758132c08b546
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q476 || 0xbf06f54bd76eedd2795127592d64f97a9d9751d7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4064 || 0xbf5a7f9ea27322c07a50c78a512a9972e5557c34
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2746 || 0xbfc80468df050d2a73fe455d6b3e484caf00e12f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q436 || 0xbfd8cba6a1e10e1ab4fa11a0062f4e52e13d260f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4238 || 0xbff36a27ceca3cfa4930da9b446c3f98bf899426
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4038 || 0xc16fcbb54d0307053c8f3006f8a061373a67ae9a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3799 || 0xc185d966f64480bedb2ed458e7d1a1e29d95231c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4026 || 0xc1d4325fd08599a9178ca5df6de4993207fcec5f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2784 || 0xc20dac0b62b28edde0c44ab1be2206a1c48e6a67
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4226 || 0xc22d7612562458e79cc51305b3963b57b9650315
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q471 || 0xc241497902c946202cd87bf332663d5e420cdafa
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2864 || 0xc2d4f2d86e9ff3415c7e0c3ee44c8819d25fe413
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4151 || 0xc3598d91844b061195136600ad243b077cc164e2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2802 || 0xc36f41b8da70af447f6383a9e85287016e874bc7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3947 || 0xc3b80922832450aabafe6aae8a6aaf1e5e6158ea
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q504 || 0xc3fdadbae46798cd8762185a09c5b672a7aa36bb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4164 || 0xc44a17c827cd97b7338c074eb00eecb76d69944d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4142 || 0xc46db2d89327d4c41eb81c43ed5e3dff111f9a8f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q401 || 0xc4f11eb455aa171c9b434f1f05a8d2f1eba99865
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2712 || 0xc57a137bb518336a9b793442885518ee07f8dc54
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3792 || 0xc5a975af88af5712ec3659dd6f6cd3ae4689f9f5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q413 || 0xc6f6c89f7f297b5230d2fd028ac06f0677c1857b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4293 || 0xc78b0aeadc6c93db96f1abcc8ea5fb356680fbb7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q526 || 0xc7a0d765c3af6e2710ba05a56c5e2ca190c2e11e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2724 || 0xc7c696c74490b1ae1b705d7a2a6058b5591de641
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q398 || 0xc7f354b172e53c0dffa8db17b028f634cd2efcbf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3801 || 0xc8598168d8475133de3150eff9b0ce27fb9b038d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4080 || 0xca6caedcc79d4d6541b3f82dc7754a14d9b196f8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q484 || 0xca90d43a2f3b9e9b356dd0877aced3df05296d60
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3927 || 0xca93e1912ab9bd7858334b22eb6f4b152c27d77f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4072 || 0xcaa8b2c1c86de1ac7e2c85bf7f7c9dec3c3dd356
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2726 || 0xcb2d68c9e7194b9ce0837ee5e676e796cb31c55a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q477 || 0xcb43078c32423f5348cab5885911c3b5fae217f9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4133 || 0xcb6fbf9b4e822bed1a8365c0c32e66bd7a779bae
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q491 || 0xcc2688350d29623e2a0844cc8885f9050f0f6ed5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3936 || 0xcc7344a557cdb86f7c713527c05eaf7906e1abab
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4132 || 0xcc75130e16998a2affa5c239c765c579167cbebb
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q440 || 0xcc778603d10bdb4865ff6589b4f48ce8f9887744
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4021 || 0xcc8e3600356b62baa44100a5f2e61aa2c7bc68c2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4124 || 0xcd2b14986db9638fb7b9bebd8678dd1c011bf4b5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4058 || 0xcdf67b8abfd40a774cb8b735b54950fb45f279f3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3795 || 0xce2d9c8d3a7802ce0bda1e1003332ff132bba3d2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2842 || 0xce6404642bb08f897fce5317c1349656ca44f2d8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q460 || 0xceb78abfad166c11e350156fd671b385265a6c87
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2875 || 0xcf4e26a7e7eae4b3840dd31c527096e1265ab990
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3957 || 0xcf6165e56c3383978f6eaaf58b314af41569c0f0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3930 || 0xcfe856e0df0f3950fb118a5ad22b4021aaa60e9f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4070 || 0xd007058e9b58e74c33c6bf6fbcd38baab813cbb6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3807 || 0xd049b3064990869c9f73bd7896271d83325d2067
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3939 || 0xd053721385c004527d53945cb6e628cb0040f80c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4079 || 0xd1295fcbaf56bf1a6dff3e1df7e437f987f6feca
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3789 || 0xd16ac71b7bff00e01768723bc0991fcc4b382164
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4147 || 0xd19bf5f0b785c6f1f6228c72a8a31c9f383a49c4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q429 || 0xd1d1d4e36117ab794ec5d4c78cbd3a8904e691d0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2744 || 0xd25912007ebc2527d4ed9dc536f928e550b0f02c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q404 || 0xd25973a3df7d2341ddea48303a3e6addec6184bf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3915 || 0xd2a744047bb754040911ae14cb5bfe289812e9a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q515 || 0xd2ef6bd0ab75fb5b38e74f69445da51d9fa8200f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4085 || 0xd30715949029b4cb5b4db073fc10814818a60e8a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q472 || 0xd3db398162a5e177bd093ac231dd28096f72da5e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4165 || 0xd3dc4b7a574498555b520280d61511c14d50b1a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2853 || 0xd3e2e76e4ab0322614fe7aaa3be0b04bed83d0d0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4138 || 0xd3e401814d1faa8ca0419ecccbfee93ac7b15b31
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2850 || 0xd44e9b676e74ae45c0a39150be771eb189bb2337
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4037 || 0xd480e91db69f946b5ee5788a52181f3cf0de1b79
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q540 || 0xd4c37daf283ef98c2db3e51339201d4dcd2025b9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q418 || 0xd57db91ee451b818c44fd95a44b952ed5c0eb4e2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4201 || 0xd5aa4e207bbd5491e5804fe5e3b902d0dcf509d5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4135 || 0xd5fb864acfd6bb2f72939f122e89ff7f475924f5
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2736 || 0xd60b37a845dd086ca6b01775f98b5aa5e594504c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3978 || 0xd65086ade456c92de4ce267f7b52394106b173c7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2805 || 0xd6ed6636e58c4766b2d1ed5d58da9cdce476a2c0
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4102 || 0xd70823761c043255f70a322388de2ed32f7f71e2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2774 || 0xd77e44f294938472381a587a47f5d836c6290ea3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q456 || 0xd827fc611f20817c6811e656cac45b5f7fcacbf7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4077 || 0xd83e662b83880081741d0e810c3fe8630fa6cb4d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2752 || 0xd840369402683782263511d76c99e9d50dc37d2c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q537 || 0xd8f4627f199bdb65a5ca842018890f9afea702a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q508 || 0xd9e424871cdf9ca51fcdaf694495c00aa39cef4b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q545 || 0xda5921614a824a6cc187175750b8b3dcb4dbe67d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3887 || 0xdae3b357b18854ebeecfe94199ab4ba21dc1c3a1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4140 || 0xdb52fd636cebfef6a8a7423e1b335f244d99a603
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4149 || 0xdb773adada14e6387080844c8d023ee8eff88ad1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q421 || 0xdb7f66f3d53a6a0ec43a49c7b6713e1bd3bd1383
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2833 || 0xdb94daa8bf1b6f45b122f442f922a2c4dd2f7ade
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3910 || 0xdbef9c83d5a6b8f9662d22e38db2a4eb1d70569a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4063 || 0xdc68ff3e2ccf723eba0a33959de70406a176be95
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q203 || 0xdcb4117e3a00632efcac3c169e0b23959f555e5e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q527 || 0xdcf0cea092464d1b9cc16fee9fbb5953846a916e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q188 || 0xde21f729137c5af1b01d73af1dc21effa2b8a0d6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4052 || 0xde29bb204f9a065458283406514b0747750c4b8d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q385 || 0xdead753f9b1eb8f2f7372e8587e7c6e342daac89
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3917 || 0xdf4db131999a911921b1b5f0422aa39030eb4b92
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q211 || 0xdf6e59c6df1e9500fd35a76ff4c62f9901e90019
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4028 || 0xdfb6ed808fadddad9154f5605e349fff96e3d939
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4103 || 0xe051deee4bdada672c314bc74d404c03ed920daa
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q495 || 0xe085327c5ad2f77147f10973fed45fb19d734f7e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3906 || 0xe087cc2689ffb5492dce338e10e4dbf0e9252c3c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3973 || 0xe0b8710abeb671b2e169113812abebe2651b6ee9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3958 || 0xe0cb5aa91743275a774ea4e41573de75d14718e9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4213 || 0xe0da6e44b15688db243ca0a4edc64ca92c22dd34
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3968 || 0xe0e7ee036a7ed4a7699f8e137b5de5eff15e1801
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3931 || 0xe1e959800a8ec49eacc0d9f953d917d425163088
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4187 || 0xe1f442c7fea3b6d0c8c176ac4608620443f491fd
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2716 || 0xe1fad61975f0d515c2695f654ca9c4031780ea58
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q520 || 0xe26d78c6bff297bbc2da3f80fea9a42028a4260f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3920 || 0xe2d1b3c4807ace55767c1f320c7c052d94b517f6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3945 || 0xe30585034f5e2ac9635cf94d0fd069d6bac2f7bc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3894 || 0xe3064d830c35119a83402636816444446ac72d36
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q506 || 0xe3d73daae939518c3853e0e8e532ae707cc1a436
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2857 || 0xe3f27deff96fe178e87559f36cbf868b9e75967d
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q441 || 0xe412186a1865c4fe54a79e0adcb08b81233df674
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3907 || 0xe4330b03f40d51b00e484e0889d403b74d3476e8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4118 || 0xe4449ccea5a59254ccf72b2466d769ec696bbe56
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2869 || 0xe5e4b1ec4061d6fc932207dfc5cf96bd27fb11da
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q433 || 0xe6397f9a08f456541814efce5dbb26e37ed44268
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2832 || 0xe6ab95fdb5842cdb4558f194a4c2452e5e9b9572
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q509 || 0xe703f231ab056ecb99c92a1232cc1020acfc72f8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3898 || 0xe70db832cead4bd1505bf73545cc089b4688c1cc
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q218 || 0xe7304ba0f157f2ade94015934284b6704bc72911
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4068 || 0xe73f9c181b571cac2bf3173634d04a9921b7ffcf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q409 || 0xe76fdf190c0e62722fab2d987a1595e5a1920a00
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2778 || 0xe8cf782bb4acb9000fae76ba940295ca988de7be
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q498 || 0xe8d24be3abf6eb27b800f752a969d3c1e84fd401
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q445 || 0xe8d848debb3a3e12aa815b15900c8e020b863f31
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4084 || 0xe8f72382109af3ef787cb9ea983ce33c741b3db4
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3966 || 0xe999e85c28f5bbf9af70833a02506270ca932590
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3808 || 0xea03523a90e5fc7e424ccef2b3e7d1ac3c90cdae
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4076 || 0xea9e9ae3bd4a7f771eec5193c0498f90fe2d53e3
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3950 || 0xeac1c57ea577e480e8a59db6eb05d41ea0716e8b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q395 || 0xeb13fddfa9b2a4a6e4e7b2d67b6e38c208c41249
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3982 || 0xeb1c22baacafac7836f20f684c946228401ff01c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3790 || 0xeb39b0277f87ef31e389b52e730ba144d10b6a48
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3893 || 0xeb4e3b117d9a1de8d1f58056a4d76d398c72bb27
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3948 || 0xec3051af698d49e08a478008aa62244bed7d6569
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2804 || 0xecbabc7cd9900db8be4ab55831a066997eef1d2e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4176 || 0xecc417e35899a1187e9bc0b7ffcd32d076d1c663
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2754 || 0xed9e1904f6d80da136a85d14d24d33a3ea8d21e6
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2822 || 0xee58e1a47d4feb77469ddc10051d2ed5b3f80523
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q465 || 0xeffec2d0163343c8f26983af1f6684e0b966a6b2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3944 || 0xf017890c1a5f56a96aa10eda72004b9b087f81a7
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4062 || 0xf05a0497994a33f18aa378630bc674efc77ad557
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4211 || 0xf0abab215e952f32ba0cdc1ab8addd1350f49aea
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4112 || 0xf0ae4f60a4dc379ae25371a34b4b699dee8d530f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2762 || 0xf0fcb01e1b130a9b7aed2d798a5877648d3ed517
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q459 || 0xf1544ba9a1ad3c8c8b507de3e1f5243c3697e367
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3896 || 0xf23815d7ddc73d5cf34671f373d427414dc39dc9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2812 || 0xf29ff96aaea6c9a1fba851f74737f3c069d4f1a9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q387 || 0xf2b7bfcdd6b596767e346269a8675472b45d098f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q482 || 0xf2e7fd6c7ac39165a428245f15da6487ce04270a
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3794 || 0xf33ebc4b89a1e5fa437aae6ef25a8727094e1606
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4100 || 0xf3616f05ada5295a7cfe4c38eeebfa5e35c9ea0c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3911 || 0xf3d5e8f1cb8cc717661d6a8e692b60cdd1b45ca2
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2870 || 0xf476cd75be8fdd197ae0b466a2ec2ae44da41897
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3960 || 0xf504211d774c9b7d4c61959d6fe773d250a44dcf
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4049 || 0xf548e317e87434b1657f84dd57dea0c9d31b502f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q478 || 0xf5c2a1360bd394fcb206179959af90e9ee9ef8be
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3922 || 0xf5d4a3b9fb77d1d5600a10e0e1c4efd12f9be751
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3996 || 0xf627e5f4bad95a956468d8bb6ee20b119f992e96
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q416 || 0xf6b6f07862a02c85628b3a9688beae07fea9c863
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2841 || 0xf6c625851d48fe26b50d96b821a87efc7e35c222
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4090 || 0xf6d639fcdd2467139976675fec588ba970e7e599
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4094 || 0xf6e1e441c5113e9a76f84efa6c98f54a036668ce
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q709 || 0xf74b146ce44cc162b601dec3be331784db111dc1
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2713 || 0xf7d2ba32bc0a35851eaac470a40eb22e966540d9
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2849 || 0xf83e3eab14101737d1dc5298888e4895e17d261c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3975 || 0xf86a6fa100f50e9e715b57d176214c93e6d6bcea
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q408 || 0xf8a065f287d91d77cd626af38ffa220d9b552a2b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q481 || 0xf9bf4c994b39d742e568096a04637edc5e8e6fda
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q417 || 0xf9c298545da80df7767c4e5a9296a071f13702b8
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q197 || 0xf9d71b5fb8345f2508c1302a74d4362deab7d104
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2753 || 0xfa16911b7f194ee61a0c1c44aef0f12ef76b4c1c
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4025 || 0xfa4fc4ec2f81a4897743c5b4f45907c02ce06199
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2749 || 0xfa8e3920daf271dab92be9b87d9998ddd94fef08
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4098 || 0xfabe6c1b1be983811d1616bec49f679e1d8e928e
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4091 || 0xfb216faf1b1650c26b0cfdf879379ba46c3da66b
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3612 || 0xfc218f1164cfef8e4ec7c2aca8fb019dc8976214
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q450 || 0xfc538ffd2923dddaed09c8ad1a51686275c56183
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2845 || 0xfc9e8db5e255439f430e058462360dd52b87cb4f
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4030 || 0xfcbca52b23db28470eb97680d18e988d8b60b608
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q4235 || 0xfe00888ff72e11b00437a13ff96965b44cbf7d47
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q3976 || 0xfe2f279d3679bac2d07cf46c93503410ef9ca448
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q428 || 0xfea2bf9ccadb6fe6260d674d904c51a31a658105
+|-
+|| https://nounsdev.wikibase.cloud/entity/Q2723 || 0xff8eb6aa355b117746d779d5b2b71d0a9377421d
+|}
